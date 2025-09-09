@@ -50,13 +50,11 @@ if x > y or x < y:
 else:
     print("both are equal")
     
-# != statement
+# != statement ( Not equal to )
 
 if x != y:
     print("x is not equal to y")
 else:
     print("x is equal to y")
-    
-    
-# AND / and statement
+
 
